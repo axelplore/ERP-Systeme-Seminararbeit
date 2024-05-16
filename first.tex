@@ -1,0 +1,59 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,german]{babel}
+\usepackage{fancyhdr} %Kopf und Fußzeile
+\usepackage{graphicx}
+%Für Vektorgrafiken aus Inkscape
+\usepackage{color}
+\usepackage{transparent}
+
+\usepackage{amsmath}
+\usepackage{bibgerm}
+\graphicspath{{./bilder/}{./}}
+
+% use last
+\usepackage[colorlinks=true,allcolors=black]{hyperref}
+
+\usepackage{float} % Paket zum Fixieren der Position von Figuren
+
+\setlength{\parindent}{0pt} % cm, mm, in
+\setlength{\parskip}{0.6ex plus 0.3ex minus 0.2ex} %elastisches Maß, um unschöne Seitenumbrüche zu vermeiden
+
+% Kopf und Fußzeilen
+\pagestyle{fancy}
+\lhead{\includegraphics[height=3ex]{FomLogo}}
+\rhead{\thepage}
+\lfoot{2023-09-19}
+\cfoot{}
+
+
+\begin{document}
+
+\input{titel}
+\pagenumbering{Roman}
+
+\newpage
+\tableofcontents
+
+\newpage
+\listoffigures %Abbildungsverzeichnis
+
+\newpage
+\listoftables
+
+\newpage
+\input{formelvz}
+
+\newpage
+\pagenumbering{arabic}
+%\thispagestyle{empty} %keine Kopf und Fußzeile oder {plain}
+\input{grundlagen_des_personalmanagements}
+\input{praktische_vorstellung_der_personaladministration}
+
+
+
+\bibliography{literatur}
+\bibliographystyle{ieeetr}
+\end{document}
