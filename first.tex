@@ -10,7 +10,8 @@
 \usepackage{transparent}
 
 \usepackage{amsmath}
-\usepackage{bibgerm}
+\usepackage[style=authoryear]{biblatex} % BibLaTeX-Paket
+\addbibresource{literatur.bib} % Pfad zur Bibliografiedatei
 \graphicspath{{./bilder/}{./}}
 
 % use last
@@ -53,7 +54,5 @@
 \input{praktische_vorstellung_der_personaladministration}
 
 
-
-\bibliography{literatur}
-\bibliographystyle{ieeetr}
+\printbibliography 
 \end{document}
