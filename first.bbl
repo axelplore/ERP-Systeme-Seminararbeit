@@ -1,0 +1,1231 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{bwllexikon2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed2b0aa5bb7549e2743684dbfe5a0cbe}{%
+           family={BWL-Lexikon},
+           familyi={B\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{fullhash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{fullhashraw}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{bibnamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorbibnamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authornamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorfullhash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorfullhashraw}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bwl-lexikon.de}
+      \field{title}{{Personalplanung}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bwl-lexikon.de/wiki/personalplanung/#personalfreisetzungsplanung
+      \endverb
+      \verb{url}
+      \verb https://www.bwl-lexikon.de/wiki/personalplanung/#personalfreisetzungsplanung
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{GablerWirtschaftslexikon2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c850ccf769e4959c7eb2b9e7fd07194}{%
+           family={{Gabler Wirtschaftslexikon}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{fullhash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{fullhashraw}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{bibnamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorbibnamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authornamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorfullhash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorfullhashraw}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Personalverwaltung}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalverwaltung-45689/version-268978
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalverwaltung-45689/version-268978
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{Haufe2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f53aee0aa2f9579ab4820a244cdbc42}{%
+           family={Haufe},
+           familyi={H\bibinitperiod},
+           given={Online\bibnamedelima Redaktion},
+           giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{fullhash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{fullhashraw}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{bibnamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorbibnamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authornamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorfullhash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorfullhashraw}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Haufe.de}
+      \field{title}{{Die kleine Geschichte des Personalwesens}}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.haufe.de/personal/hr-management/infografik-eine-kleine-geschichtedes-des-personalwesens_80_378690.html
+      \endverb
+      \verb{url}
+      \verb https://www.haufe.de/personal/hr-management/infografik-eine-kleine-geschichtedes-des-personalwesens_80_378690.html
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Jahn03:EntwicklungPM}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1c85cdb500698aef962dd9f37e75aba}{%
+           family={Jahn},
+           familyi={J\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hochschule Merseburg}%
+      }
+      \strng{namehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{fullhash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{fullhashraw}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{bibnamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorbibnamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authornamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorfullhash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorfullhashraw}{d1c85cdb500698aef962dd9f37e75aba}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 9783638236102}
+      \field{title}{{Die Entwicklung und Bedeutung des Personalmanagements}}
+      \field{year}{2003}
+      \keyw{fachliteratur}
+    \endentry
+    \entry{lernort-mint:PMBedeutungZiele}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=943b3d8d776bc1b81a33464f4bfece5c}{%
+           family={Mint},
+           familyi={M\bibinitperiod},
+           given={Lernort},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{fullhash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{fullhashraw}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{bibnamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorbibnamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authornamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorfullhash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorfullhashraw}{943b3d8d776bc1b81a33464f4bfece5c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lernort-mint.de}
+      \field{title}{{Definition und Bedeutung des Personalmanagements}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernort-mint.de/wirtschaftswissenschaften/bwl/personalmanagement/
+      \endverb
+      \verb{url}
+      \verb https://www.lernort-mint.de/wirtschaftswissenschaften/bwl/personalmanagement/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{personio:PersoManagement}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=007934af841c4af0eb3073335cbfd3f2}{%
+           family={Personio},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{fullhash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{fullhashraw}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{bibnamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorbibnamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authornamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorfullhash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorfullhashraw}{007934af841c4af0eb3073335cbfd3f2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personio.de}
+      \field{title}{{Personalmanagement: Definition, Aufgaben und Best Practices}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.personio.de/hr-lexikon/personalmanagement/
+      \endverb
+      \verb{url}
+      \verb https://www.personio.de/hr-lexikon/personalmanagement/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{SAPSE2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Personnel Administration (PA-PA)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/e084b8535c39b44ce10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/e084b8535c39b44ce10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Personnel Action}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/c03add5321e8424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/c03add5321e8424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2023a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Reports in Personnel Administration}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/05b0e05320a7424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/05b0e05320a7424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024b}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About the Object Infotype (1000)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebedc811324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebedc811324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024d}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infotypes}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eeb9bcb0d3e57e0e10000000a421bc1.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eeb9bcb0d3e57e0e10000000a421bc1.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024c}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Relationships (Infotype 1001)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebee1411324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebee1411324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Website}
+      \field{title}{Stelle}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/doc/saphelp_snc70/7.0/de-DE/4b/6a43cfcafe11d2b49d006094b9c9b4/content.htm?no_cache=true
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/doc/saphelp_snc70/7.0/de-DE/4b/6a43cfcafe11d2b49d006094b9c9b4/content.htm?no_cache=true
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SSSUM2019a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dde02f3fa7356900699d6eb5abd7d450}{%
+           family={{SAP SE / SAP UCC Magdeburg}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{bibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorbibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authornamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb TODO
+      \endverb
+      \verb{url}
+      \verb TODO
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SSSUM2019}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dde02f3fa7356900699d6eb5abd7d450}{%
+           family={{SAP SE / SAP UCC Magdeburg}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{bibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorbibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authornamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Personalwesen (Human Capital Management, HCM)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/EnterpriseApplications/SS2021/10_Peronalwesen_20210604.pdf
+      \endverb
+      \verb{url}
+      \verb https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/EnterpriseApplications/SS2021/10_Peronalwesen_20210604.pdf
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{Striegel2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=564c299992b3ecdb3186bc4d38941ed2}{%
+           family={Striegel},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{fullhash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{fullhashraw}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{bibnamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorbibnamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authornamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorfullhash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorfullhashraw}{564c299992b3ecdb3186bc4d38941ed2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftswissen.de}
+      \field{month}{5}
+      \field{note}{Zugriff am 08-05-2024}
+      \field{title}{{Mitarbeiterbeurteilung: Definition, Ziele, Formen, Kriterien}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.wirtschaftswissen.de/personalmanagement/personalentwicklung/personalbeurteilung/
+      \endverb
+      \verb{url}
+      \verb https://www.wirtschaftswissen.de/personalmanagement/personalentwicklung/personalbeurteilung/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Studyflix2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={Studyflix},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhashraw}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhashraw}{b18c523e872ac427f4140082fee87b65}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studyflix.de}
+      \field{title}{{Personalbeschaffung}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://studyflix.de/jobs/karriere-tipps/personalbeschaffung-6689
+      \endverb
+      \verb{url}
+      \verb https://studyflix.de/jobs/karriere-tipps/personalbeschaffung-6689
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Bartscher2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33921cb15ad6629623950db43e5b583c}{%
+           family={Thomas\bibnamedelima Bartscher},
+           familyi={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Regina\bibnamedelima Nissen},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{fullhash}{33921cb15ad6629623950db43e5b583c}
+      \strng{fullhashraw}{33921cb15ad6629623950db43e5b583c}
+      \strng{bibnamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorbibnamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authornamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorfullhash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorfullhashraw}{33921cb15ad6629623950db43e5b583c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftslexikon Gabler}
+      \field{title}{{Personalentwicklung}}
+      \field{year}{2021}
+      \verb{file}
+      \verb Definition, Ziele und Funktionszyklus systematischer Personalentwicklung:C\:/Users/asa06/Downloads/Personalentwicklung.pdf:PDF:https\://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{bwllexikon2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed2b0aa5bb7549e2743684dbfe5a0cbe}{%
+           family={BWL-Lexikon},
+           familyi={B\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{fullhash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{fullhashraw}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{bibnamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorbibnamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authornamehash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorfullhash}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \strng{authorfullhashraw}{ed2b0aa5bb7549e2743684dbfe5a0cbe}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bwl-lexikon.de}
+      \field{title}{{Personalplanung}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bwl-lexikon.de/wiki/personalplanung/#personalfreisetzungsplanung
+      \endverb
+      \verb{url}
+      \verb https://www.bwl-lexikon.de/wiki/personalplanung/#personalfreisetzungsplanung
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{GablerWirtschaftslexikon2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c850ccf769e4959c7eb2b9e7fd07194}{%
+           family={{Gabler Wirtschaftslexikon}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{fullhash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{fullhashraw}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{bibnamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorbibnamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authornamehash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorfullhash}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \strng{authorfullhashraw}{5c850ccf769e4959c7eb2b9e7fd07194}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Personalverwaltung}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalverwaltung-45689/version-268978
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalverwaltung-45689/version-268978
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{Haufe2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f53aee0aa2f9579ab4820a244cdbc42}{%
+           family={Haufe},
+           familyi={H\bibinitperiod},
+           given={Online\bibnamedelima Redaktion},
+           giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{fullhash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{fullhashraw}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{bibnamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorbibnamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authornamehash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorfullhash}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \strng{authorfullhashraw}{0f53aee0aa2f9579ab4820a244cdbc42}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Haufe.de}
+      \field{title}{{Die kleine Geschichte des Personalwesens}}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.haufe.de/personal/hr-management/infografik-eine-kleine-geschichtedes-des-personalwesens_80_378690.html
+      \endverb
+      \verb{url}
+      \verb https://www.haufe.de/personal/hr-management/infografik-eine-kleine-geschichtedes-des-personalwesens_80_378690.html
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Jahn03:EntwicklungPM}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1c85cdb500698aef962dd9f37e75aba}{%
+           family={Jahn},
+           familyi={J\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hochschule Merseburg}%
+      }
+      \strng{namehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{fullhash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{fullhashraw}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{bibnamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorbibnamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authornamehash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorfullhash}{d1c85cdb500698aef962dd9f37e75aba}
+      \strng{authorfullhashraw}{d1c85cdb500698aef962dd9f37e75aba}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 9783638236102}
+      \field{title}{{Die Entwicklung und Bedeutung des Personalmanagements}}
+      \field{year}{2003}
+      \keyw{fachliteratur}
+    \endentry
+    \entry{lernort-mint:PMBedeutungZiele}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=943b3d8d776bc1b81a33464f4bfece5c}{%
+           family={Mint},
+           familyi={M\bibinitperiod},
+           given={Lernort},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{fullhash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{fullhashraw}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{bibnamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorbibnamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authornamehash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorfullhash}{943b3d8d776bc1b81a33464f4bfece5c}
+      \strng{authorfullhashraw}{943b3d8d776bc1b81a33464f4bfece5c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lernort-mint.de}
+      \field{title}{{Definition und Bedeutung des Personalmanagements}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernort-mint.de/wirtschaftswissenschaften/bwl/personalmanagement/
+      \endverb
+      \verb{url}
+      \verb https://www.lernort-mint.de/wirtschaftswissenschaften/bwl/personalmanagement/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{personio:PersoManagement}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=007934af841c4af0eb3073335cbfd3f2}{%
+           family={Personio},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{fullhash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{fullhashraw}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{bibnamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorbibnamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authornamehash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorfullhash}{007934af841c4af0eb3073335cbfd3f2}
+      \strng{authorfullhashraw}{007934af841c4af0eb3073335cbfd3f2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personio.de}
+      \field{title}{{Personalmanagement: Definition, Aufgaben und Best Practices}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.personio.de/hr-lexikon/personalmanagement/
+      \endverb
+      \verb{url}
+      \verb https://www.personio.de/hr-lexikon/personalmanagement/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{SAPSE2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Personnel Administration (PA-PA)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/e084b8535c39b44ce10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/e084b8535c39b44ce10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Personnel Action}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/c03add5321e8424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/c03add5321e8424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2023a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Reports in Personnel Administration}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/05b0e05320a7424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/c6c3ffd90792427a9fee1a19df5b0925/05b0e05320a7424de10000000a174cb4.html?version=2022.002
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024b}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About the Object Infotype (1000)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebedc811324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebedc811324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024d}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infotypes}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eeb9bcb0d3e57e0e10000000a421bc1.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eeb9bcb0d3e57e0e10000000a421bc1.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024c}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Relationships (Infotype 1001)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebee1411324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_702/fe1944ee6c5510149d19ba7e0220f689/4eebee1411324e70e10000000a42189d.html?version=7.02.24
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SAPSE2024a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhashraw}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Website}
+      \field{title}{Stelle}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://help.sap.com/doc/saphelp_snc70/7.0/de-DE/4b/6a43cfcafe11d2b49d006094b9c9b4/content.htm?no_cache=true
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/doc/saphelp_snc70/7.0/de-DE/4b/6a43cfcafe11d2b49d006094b9c9b4/content.htm?no_cache=true
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SSSUM2019a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dde02f3fa7356900699d6eb5abd7d450}{%
+           family={{SAP SE / SAP UCC Magdeburg}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{bibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorbibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authornamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb TODO
+      \endverb
+      \verb{url}
+      \verb TODO
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{SSSUM2019}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dde02f3fa7356900699d6eb5abd7d450}{%
+           family={{SAP SE / SAP UCC Magdeburg}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{fullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{bibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorbibnamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authornamehash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhash}{dde02f3fa7356900699d6eb5abd7d450}
+      \strng{authorfullhashraw}{dde02f3fa7356900699d6eb5abd7d450}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Personalwesen (Human Capital Management, HCM)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/EnterpriseApplications/SS2021/10_Peronalwesen_20210604.pdf
+      \endverb
+      \verb{url}
+      \verb https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/EnterpriseApplications/SS2021/10_Peronalwesen_20210604.pdf
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+    \entry{Striegel2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=564c299992b3ecdb3186bc4d38941ed2}{%
+           family={Striegel},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{fullhash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{fullhashraw}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{bibnamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorbibnamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authornamehash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorfullhash}{564c299992b3ecdb3186bc4d38941ed2}
+      \strng{authorfullhashraw}{564c299992b3ecdb3186bc4d38941ed2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftswissen.de}
+      \field{month}{5}
+      \field{note}{Zugriff am 08-05-2024}
+      \field{title}{{Mitarbeiterbeurteilung: Definition, Ziele, Formen, Kriterien}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.wirtschaftswissen.de/personalmanagement/personalentwicklung/personalbeurteilung/
+      \endverb
+      \verb{url}
+      \verb https://www.wirtschaftswissen.de/personalmanagement/personalentwicklung/personalbeurteilung/
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Studyflix2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={Studyflix},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhashraw}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhashraw}{b18c523e872ac427f4140082fee87b65}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studyflix.de}
+      \field{title}{{Personalbeschaffung}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://studyflix.de/jobs/karriere-tipps/personalbeschaffung-6689
+      \endverb
+      \verb{url}
+      \verb https://studyflix.de/jobs/karriere-tipps/personalbeschaffung-6689
+      \endverb
+      \keyw{online}
+    \endentry
+    \entry{Bartscher2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33921cb15ad6629623950db43e5b583c}{%
+           family={Thomas\bibnamedelima Bartscher},
+           familyi={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Regina\bibnamedelima Nissen},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{fullhash}{33921cb15ad6629623950db43e5b583c}
+      \strng{fullhashraw}{33921cb15ad6629623950db43e5b583c}
+      \strng{bibnamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorbibnamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authornamehash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorfullhash}{33921cb15ad6629623950db43e5b583c}
+      \strng{authorfullhashraw}{33921cb15ad6629623950db43e5b583c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftslexikon Gabler}
+      \field{title}{{Personalentwicklung}}
+      \field{year}{2021}
+      \verb{file}
+      \verb Definition, Ziele und Funktionszyklus systematischer Personalentwicklung:C\:/Users/asa06/Downloads/Personalentwicklung.pdf:PDF:https\://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/personalentwicklung-52604/version-384860
+      \endverb
+      \keyw{fachliteratur}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
