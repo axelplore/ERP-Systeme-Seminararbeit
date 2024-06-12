@@ -10,7 +10,7 @@ Den Aufbau der verwendeten Stammdaten innerhalb des Moduls beschreiben und die a
 
 \subsection{Organisationsstruktur}
 Der Aufbau der Komponente muss, um effektiv verwendet werden zu können, den realen Aufbau des Unternehmens widerspiegeln.
-Der erste Schritt bei der Verwendung des Systems sollte daher das Eintragen der Mitarbeiter-Daten in die Organisationsstruktur seien.
+Der erste Schritt bei der Verwendung des Systems sollte daher das Eintragen der Mitarbeiter-Daten in die Organisationsstruktur sein.
 Die Organisationsstruktur des HCM-Moduls wird dafür verwendet, um den organisatorischen Aufbau eines Unternehmens abbilden zu können.
 Sie besteht im Wesentlichen aus drei verschiedenen Strukturen, welche zusammen die Position und Zuständigkeit eines Mitarbeiters beschreiben.
 
@@ -19,58 +19,64 @@ Die Unternehmensstruktur beschreibt den Aufbau der einzelnen Geschäftsbereiche 
 Die Geschäftsbereiche werden durch Mandanten abgebildet, welche untereinander keine Daten austauschen.
 Sie sind also voneinander unabhängige Einheiten. Die nächste Unterteilung besteht aus dem Buchungskreis.
 Über den Buchungskreis können z.B. rechtlich vorgeschriebene Finanzaufstellungen erstellt werden.
-Der Buchungskreis arbeitet mit der Buchhaltung eines Unternehmens, also z.B. der SAP „FI“ (Finanzwesen) Komponente festgelegt.
+Der Buchungskreis arbeitet mit der Buchhaltung eines Unternehmens, also z.B. der SAP „FI“ (Finanzwesen), zusammen.
 Die zwei folgenden Strukturen, dem Personalbereich und dem Sub-Personalbereich müssen jeweils einem Buchungskreis angehören und sind besonders für die Personalverwaltung von Abteilungen und Teams von Interesse.\footnote{Vgl. \cite{SAPSE2024a}}
 
 \subsection{Personalstruktur}
-Im Human-Capital-Management ist es das Ziel, das man die menschlichen Ressourcen, namentlich jeder Mitarbeiter, der an der Wertschöpfungskette des Unternehmens beteiligt ist, strukturieren und effektiv verwalten kann.\footnote{Vgl. \cite{GablerWirtschaftslexikon2018}}
+Im Human-Capital-Management ist es das Ziel, das man die menschlichen Ressourcen, also jeder Mitarbeiter, der an der Wertschöpfungskette des Unternehmens beteiligt ist, strukturieren und effektiv verwalten kann.\footnote{Vgl. \cite{GablerWirtschaftslexikon2018}}
 In der Komponente HCM wird die Personalstruktur als Mitarbeitergruppen/-kreis und deren Abrechnungsbereichen abgebildet.
 Gruppen können aus externen und internen Mitarbeitern oder aus aktiven und pensionierten Mitarbeitern aufgebaut sein.
 Die Kreise werden dafür verwendet, um einen groben Überblick über den aktuellen Stand des Mitarbeiters im Unternehmen bieten zu können.
-Dazu gehören unter anderem Auszubildende, Angestellten, Führungskräfte oder stündlich bezahlten Mitarbeiter.\footnote{Vgl. \cite{SAPSE2024a}}
-Diese beiden Parameter zusammen stellen die aktuelle Position eines Mitarbeiters im Unternehmen dar. Die Abrechnungsbereiche können verwendet werden, um z.B. das Datum der Gehaltszahlung festlegen zu können.
+Dazu gehören unter anderem Auszubildende, Angestellten, Führungskräfte oder stündlich bezahlte Mitarbeiter.\footnote{Vgl. \cite{SAPSE2024a}}
+Diese beiden Parameter zusammen stellen die aktuelle Position eines Mitarbeiters im Unternehmen dar. 
+Die Abrechnungsbereiche können verwendet werden, um z.B. das Datum der Gehaltszahlung festlegen zu können.
 So können Mitarbeiter z.B. am 28. oder aber am 1. eines Monats ihre Gehaltszahlung erhalten.\footnote{Vgl. \cite{SAPSE2024a}}
 
 \subsection{Aufbauorganisation}
-Die letzte und dritte Struktur, die im HCM-Modul abgebildet wird, ist die Aufbauorganisation, welche beschreibt wie die unterschiedlichen Organisationseinheiten, Mitarbeitern und den von ihnen eingenommenen Personen miteinander interagieren.
-Der Grundbaustein hierfür sind sogenannte Objekte, alle Teile der Organisation beschreiben. Alle Eigenschaften eines Objektes werden durch seine Infotypen bestimmt.
+Die letzte und dritte Struktur, die im HCM-Modul abgebildet wird, ist die Aufbauorganisation, welche beschreibt, wie die unterschiedlichen Organisationseinheiten, Mitarbeiter und den von ihnen eingenommenen Personen miteinander interagieren.
+Der Grundbaustein hierfür sind sogenannte Objekte, welche alle Teile der Organisation beschreiben. Alle Eigenschaften eines Objektes werden durch seine Infotypen bestimmt.
 Dadurch wird ein Zusammenhang zwischen der zuständigen Organisationseinheit, der Planstelle, dem Mitarbeiter und der Stelle/Kostenstelle hergestellt.\footnote{Vgl. \cite{SSSUM2019a}}
 Hierbei repräsentiert eine Kostenstelle eine beliebige Kostenentstehung im Unternehmen.
-Sie haben den Vorteil das, wenn Kostenstellen effektiv eingesetzt werden, die Entstehung von Kosten in der Abrechnung genau einer Quelle zugeordnet werden kann.\footnote{Vgl. \cite{SAPSE2024b}}
+Sie haben den Vorteil das wenn Kostenstellen effektiv eingesetzt werden, die Entstehung von Kosten in der Abrechnung genau einer Quelle zugeordnet werden kann.\footnote{Vgl. \cite{SAPSE2024b}}
 Die Planstelle wird einer Organisationseinheit zugewiesen, welche eine Aufgabe in einem Bereich des Unternehmens darstellt.
 
 Durch die oben genannten Komponenten einer Aufbauorganisation kann so eine Baumstruktur oder Organigramm eines Unternehmens erstellt werden.
-Diese beginnt mit den Organisationseinheiten, welche dann eine Stelle beinhalten, welche durch Planstellen umgesetzt wird.\footnote{Vgl. \cite{SAPSE2024c}}
+Diese Struktur beginnt mit den Organisationseinheiten, welche dann eine Stelle beinhalten, die durch eine oder mehrere Planstellen umgesetzt wird.\footnote{Vgl. \cite{SAPSE2024c}}
 
 \subsection{Stammdaten}
-Stammdaten unterscheiden sich zu Bewegungsdaten dadurch das sie nur einmal im System gesetzt werden müssen, wonach sie referenziert werden können um z.B. weitere Daten eines Objektes lediglich referenzieren zu können, als das sie neu eingetragen werden müssen.\footnote{Vgl. \cite{SSSUM2019a}}
+Stammdaten unterscheiden sich zu Bewegungsdaten dadurch, das sie nur einmal im System gesetzt werden müssen, wonach sie referenziert werden können um, die Daten aus diesen Objeten zu erhalten. Dies sorgt dafür sie nicht erneut eingetragen werden müssen.\footnote{Vgl. \cite{SSSUM2019a}}
 Im Modul HCM sind dies unter anderem die Personalnummer und die Referenzpersonalnummer.
 Diese können entweder durch das System oder manuell durch einen Mitarbeiter gesetzt werden und ermöglichen es einen Mitarbeiter eindeutig zu identifizieren.\footnote{Vgl. \cite{SSSUM2019a}}
-Die Referenzpersonalnummer wird dafür verwendet um eine Mehrfachbeschäftigung eines Mitarbeiters abbilden zu können.
+Die Referenzpersonalnummer wird dafür verwendet, um eine Mehrfachbeschäftigung eines Mitarbeiters abbilden zu können.
 Durch das Verwenden einer Referenzpersonalnummer können bestehende Personaldaten referenziert werden.
 \subsection{HCM-Prozesse}
-Um ein ERP-System in einem Unternehmen einsetzen zu können, müssen nicht nur Strukturen des Unternehmens abgebildet werden könne.
+Um ein ERP-System in einem Unternehmen einsetzen zu können, müssen nicht nur Strukturen des Unternehmens abgebildet werden können.
 Der wichtigere Bestandteil ist die Fähigkeit der Benutzer, Prozesse innerhalb des Systems anstoßen zu können, um von der nun digitalen Abbildung des Unternehmens profitieren zu können.
 Hierdurch können Zeit und Kosten gespart werden, da zeitintensive händisch voran getriebene Prozesse durch automatisierte Prozesse im System ersetzt werden können.
 In dem Modul HCM sind eine Vielzahl von Prozessen bereits enthalten, welche es ermöglichen, das Personal eines Unternehmens effektiv verwalten zu können.
 Die Prozesse im HCM-Modul umfassen ebenfalls die Funktionen, die eigentlichen Strukturen aufzubauen und verändern zu können.
 
 \subsection{Organisationsmanagement}
-Das Organisationsmanagement ist einer der zentralen Prozesse des HCMs welcher es Benutzern ermöglicht, die im System abgebildete Struktur des Unternehmens fortlaufend anzupassen.
-Es umfasst das anlegen und ändern von Organisationseinheit, das abgrenzen und erstellen von Stellen/Planstellen und bietet die Möglichkeit einzelne Organisationseinheiten auf z.B. personelle Anforderungen zu analysieren.\footnote{Vgl. \cite{SSSUM2019a}}
+Das Organisationsmanagement ist einer der zentralen Prozesse des HCM welcher es Benutzern ermöglicht, die im System abgebildete Struktur des Unternehmens fortlaufend anzupassen.
+Es umfasst das Anlegen und Ändern von Organisationseinheit, das Abgrenzen und Erstellen von Stellen/Planstellen und bietet die Möglichkeit, einzelne Organisationseinheiten auf z.B. ihre personellen Anforderungen zu analysieren.\footnote{Vgl. \cite{SSSUM2019a}}
 Durch diese Funktionen kann z.B. ein potenzieller personeller Mangel erkannt werden, bevor mehrere Mitarbeiter in den Ruhestand gehen. Hier kann dann frühzeitig nach neuen Arbeitskräften im zur Verfügung stehenden Mitarbeiter-Pool gesucht werden.
-Ebenfalls können die vorhandenen Daten erweitert werden, um Planungsszenarien zu schaffen beziehungsweise um Simulationen von möglicher Entwicklung zu erstellen.
+Ebenfalls können die vorhandenen Daten erweitert werden, um Planungsszenarien zu schaffen beziehungsweise, um Simulationen von möglicher Entwicklung zu erstellen.
 
-Für das Organisationsmanagement werden ebenfalls wieder die jeweils relevanten Daten der Mitarbeiter und Kostenstellen verwendet. Diese Objekte und ihre Infotypen werden dafür verwendet, um Veränderungen in den Strukturen des Unternehmens ebenfalls im HCM-Modul umzusetzen.
+Für das Organisationsmanagement werden ebenfalls wieder die jeweils relevanten Daten der Mitarbeiter und Kostenstellen verwendet. 
+Diese Objekte und ihre Infotypen werden dafür verwendet, um Veränderungen in den Strukturen des Unternehmens ebenfalls im HCM-Modul umzusetzen.
 
-Organisationsmanagement umfasst somit sämtliche Prozesse, die für das Verwalten der gesamten Unternehmensstruktur innerhalb des HCM-Moduls.\footnote{Vgl. \cite{SAPSE2024a}}
+Das Organisationsmanagement umfasst somit sämtliche Prozesse, die für das Verwalten der gesamten Unternehmensstruktur innerhalb des HCM-Modul.\footnote{Vgl. \cite{SAPSE2024a}}
 
 \subsection{Personaladministration}
-Die Komponente Personaladministration stellt Funktionen zur Verwaltung der Belegschaft in einem Unternehmen zur Verfügung. Zusätzlich zu diesen Funktionen integriert sich die Komponente mit anderen Komponenten wie der Komponente Personalbeschaffung, Personalentwicklung und dem Talentmanagment.\footnote{Vgl. \cite{SAPSE2022}}
-Die Komponente Personaladministration ermöglicht es umfassende Datensätze zu Mitarbeitern anzulegen, welche z.B. beim Füllen von Planstellen im Unternehmen zurate gezogen werden können. Veränderungen
-der Position von Mitarbeitern durch z.B. Kündigungen oder Positionswechseln werden mit sogenannten Personalmaßnahmen beschrieben. Personalmaßnahmen sind Infotypen welche verändert, hinzugefügt oder gelöscht werden, wenn es personelle Veränderungen gibt.\footnote{Vgl. \cite{SAPSE2023a}}
-Ein weitere wichtiger Bestandteil der herkömmlichen Personaladministration besteht aus dem Erstellen von Berichten für beispielsweise die höher liegenden Führungsebenen. Auch hier bietet die Komponente Personaladministration eine Vielzahl von standardmäßig verfügbaren Berichten, die automatisiert erstellt werden können.
-Der Verwaltungsaufwand der Personaladministration kann ebenfalls durch eine Möglichkeit zum Self-Service reduziert werden. Self-Service beschreibt, im Kontext eines ERP-Systems, die Möglichkeit, dass Mitarbeiter ihre Personal-Daten eigenständig abrufen und ändern können, um diese aktuelle zu halten.\footnote{Vgl. \cite{SAPSE2023}}
+Die Komponente Personaladministration stellt Funktionen zur Verwaltung der Belegschaft in einem Unternehmen zur Verfügung. 
+Zusätzlich zu diesen Funktionen integriert sich die Personaladministration mit anderen Komponenten wie der Personalbeschaffung, Personalentwicklung und dem Talentmanagment.\footnote{Vgl. \cite{SAPSE2022}}
+Die Personaladministration ermöglicht es umfassende Datensätze zu Mitarbeitern anzulegen, welche z.B. beim Füllen von Planstellen im Unternehmen zurate gezogen werden können. Veränderungen
+der Position von Mitarbeitern durch z.B. Kündigungen oder Positionswechseln werden mit sogenannten Personalmaßnahmen beschrieben. 
+Personalmaßnahmen sind Infotypen welche verändert, hinzugefügt oder gelöscht werden, wenn es personelle Veränderungen gibt.\footnote{Vgl. \cite{SAPSE2023a}}
+Ein weitere wichtiger Bestandteil der herkömmlichen Personaladministration besteht aus dem Erstellen von Berichten für Beispielsweise die höher liegenden Führungsebenen. 
+Auch hier bietet die Komponente Personaladministration eine Vielzahl von standardmäßig verfügbaren Berichten, die automatisiert erstellt werden können.
+Der Verwaltungsaufwand der Personaladministration kann ebenfalls durch die Möglichkeit zum Self-Service reduziert werden. 
+Self-Service beschreibt, im Kontext eines ERP-Systems, die Möglichkeit, dass Mitarbeiter ihre Personal-Daten eigenständig abrufen und ändern können, um diese aktuell zu halten.\footnote{Vgl. \cite{SAPSE2023}}
 
 \subsection{Personalbeschaffung}
 Die Personalentwicklung und -beschaffung beschäftigt sich mit dem Erschließen von neuen personellen Ressourcen durch das verwalten und anwerben von neuen Personen.
